@@ -8,4 +8,5 @@ Teniendo lo anterior en cuenta, a principios del siglo XX, Alfred Lotka y Vittor
 Aquí, se muestra un modelo de las ecuaciones Lotka-Volterra y como, según los valores de epsilon a los que las ecuaciones acopladas están relacionadas, se pueden extinguir la presa o sobrevivir ambas especies.
 
 ## Referencia
-* Escobar J. A.(2015). Ecuaciones diferenciales con aplicaciones en Maple.
+* J. A. Escobar (2015). Ecuaciones diferenciales con aplicaciones en Maple.
+* J. Aencio (2017). Modelo Depredador Presa de Lotka-- Volterra. 
