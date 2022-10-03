@@ -5,7 +5,7 @@ Las especies pueden interactuar entre ellas de manera positiva (un incremento de
 
 Teniendo lo anterior en cuenta, a principios del siglo XX, Alfred Lotka y Vittora Volterra, desarrollan de manera independiente unas ecuaciones matemáticas que describen la relación entre dos especies que comparten el mismo recurso. Las ecuaciones de Lotka-Volterra, también conocidas como ecuaciones depredador-presa, se usan para describir dinámicas de sistemas biológicos en el que dos especies interactúan.
 
-Aquí, se muestra un modelo de las ecuaciones Lotka-Volterra y como, según los valores de epsilon a los que las ecuaciones acopladas están relacionadas, se pueden extinguir la presa o sobrevivir ambas especies.
+Aquí, se muestra un modelo de las ecuaciones Lotka-Volterra y como se pueden extinguir la presa o sobrevivir ambas especies.
 
 ## Referencia
 * J. A. Escobar (2015). Ecuaciones diferenciales con aplicaciones en Maple.
